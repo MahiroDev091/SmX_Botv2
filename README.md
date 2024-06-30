@@ -3,7 +3,7 @@ A FACEBOOK MESSENGER BOT FOR SMS BOMBING
 
 ## SCREENSHOT
 
-<img src="images/example.jpg" style="height: 220px; width: 200px"></img>
+<img src="images/example.jpg" style="height: 220px; width: 290px"></img>
 
 ## AVAILABLE COMMANDS
 
